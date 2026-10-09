@@ -1,4 +1,4 @@
-# Hi there, I'm Beatriz de Luna Barreto 👋
+# Hi there, I'm Bia 👋
 
 <p align="left">
   <strong>Economist (UERJ) & Master's Student in Economics (UFF)</strong><br>
