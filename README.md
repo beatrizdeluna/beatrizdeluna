@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Beatriz de Luna Barreto 👋
+<p align="left">
+  <strong>Economist (UERJ) & Master's Student in Economics (UFF)</strong><br>
+  Experienced in macroeconomic research, data analysis, and public policy planning.
+</p>
+* 😄 Pronouns: She/Her
+---
 
-<!--
-**beatrizdeluna/beatrizdeluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+* 🔭 Currently pursuing a Master’s Degree in Economics at **UFF**.
+* 💼 Professional background includes internships at **IPEA** (Macroeconomic Studies & Policies), **Macroplan** (Data & Economic Diagnostics), and **BNDES** (Foreign Trade & Project Finance).
+* 📊 Passionate about leveraging data, econometric tools, and economic modeling to support strategic decision-making.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
+* **Already Know:** R, Advanced Excel, Power BI, Bloomberg Terminal, $\LaTeX$, Markdown
+* **Currently Learning / Expanding:** Python, SQL, Stata, EViews
+* **Languages:** English (Advanced), French (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+* 📧 Email: beatrizdelunabarreto@gmail.com
+* 📱 Phone: +55 (21) 99647-3190
+* 🔗 LinkedIn: [linkedin.com/in/beatriz-de-luna-barreto](https://www.linkedin.com/in/beatriz-de-luna-barreto)
+
