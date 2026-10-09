@@ -21,6 +21,6 @@
 * **Languages:** English (Advanced), French (Basic)
 
 ### Let's Connect
-* 🔗 LinkedIn: [linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/seu-usuario-linkedin)
+* 🔗 LinkedIn: [linkedin.com/in/beatriz-de-luna-barreto](https://www.linkedin.com/in/beatriz-de-luna-barreto)
 * 📧 Email: beatrizdelunabarreto@gmail.com
 * 📱 Phone: +55 (21) 99647-3190
