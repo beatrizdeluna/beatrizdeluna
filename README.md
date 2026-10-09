@@ -1,9 +1,13 @@
 # Hi there, I'm Beatriz de Luna Barreto 👋
+
 <p align="left">
   <strong>Economist (UERJ) & Master's Student in Economics (UFF)</strong><br>
   Experienced in macroeconomic research, data analysis, and public policy planning.
 </p>
-* 😄 Pronouns: She/Her
+
+* 💬 Pronouns: She/Her
+* 📍 Location: Rio de Janeiro, Brazil
+
 ---
 
 ### About Me
@@ -17,7 +21,6 @@
 * **Languages:** English (Advanced), French (Basic)
 
 ### Let's Connect
+* 🔗 LinkedIn: [linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/seu-usuario-linkedin)
 * 📧 Email: beatrizdelunabarreto@gmail.com
 * 📱 Phone: +55 (21) 99647-3190
-* 🔗 LinkedIn: [linkedin.com/in/beatriz-de-luna-barreto](https://www.linkedin.com/in/beatriz-de-luna-barreto)
-
